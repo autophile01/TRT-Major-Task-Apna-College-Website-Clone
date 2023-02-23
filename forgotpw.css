@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6674cc69;
+}
+.container{
+    height: fit-content;
+    width: max-content;
+    margin: 60px auto;
+    background-color: white;
+    padding: 10px 30px 30px 30px;
+    justify-content: center;
+}
+.container input{
+    padding: 16px;
+    width: 350px;
+    background-color: #afb7e837;
+    border: none;
+    margin-top: 7px;
+}
+.container button{
+   background-color: #6674CC;
+   color: white;
+   padding: 16px;
+   width: 150px;
+   border: none;
+   text-align: center;
+   font-size: 15px;
+   margin-left: 20px;
+   
+}
+
+.container a{
+    color: #6674CC;
+    text-decoration: none;   
+}
+#forgotpassword{
+    margin-left: 20px;
+}
+#forgotpassword:hover{
+    color: #6674CC;
+    text-decoration: underline; 
+}
+#cross{
+    color: black;
+}
